@@ -1,0 +1,12 @@
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\Timer v2\WpfApplication1\bin\Release\WpfApplication1.exe.config
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\Timer v2\WpfApplication1\bin\Release\WpfApplication1.exe
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\Timer v2\WpfApplication1\bin\Release\WpfApplication1.pdb
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\Timer v2\WpfApplication1\obj\Release\MainWindow.baml
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\Timer v2\WpfApplication1\obj\Release\MainWindow.g.cs
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\Timer v2\WpfApplication1\obj\Release\App.g.cs
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\Timer v2\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\Timer v2\WpfApplication1\obj\Release\WpfApplication1.g.resources
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\Timer v2\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\Timer v2\WpfApplication1\obj\Release\Kitchen Timer.csproj.GenerateResource.Cache
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\Timer v2\WpfApplication1\obj\Release\WpfApplication1.exe
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\Timer v2\WpfApplication1\obj\Release\WpfApplication1.pdb
